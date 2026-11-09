@@ -12,13 +12,10 @@ export default function Footer() {
         <div className="flex gap-16 text-sm">
           <div className="flex flex-col gap-3">
             <span className="text-gray-400 uppercase text-xs tracking-wider mb-2">Social</span>
-            <a href="#" className="text-white hover:text-gray-500">
+            <a href="https://www.linkedin.com/in/rivaldo-cavarera-devan-14761026a/" className="text-white hover:text-gray-500">
               LinkedIn
             </a>
-            <a href="#" className="text-white hover:text-gray-500">
-              Twitter
-            </a>
-            <a href="#" className="text-white hover:text-gray-500">
+            <a href="https://www.instagram.com/nierikasa?dlrf=cHh4b2lvbmRsb2g2" className="text-white hover:text-gray-500">
               Instagram
             </a>
           </div>
