@@ -5,7 +5,7 @@ export default function About() {
         <div className="grid grid-cols-1 lg:grid-cols-4 gap-12 border-b border-gray-800 pb-20 mb-20">
           <div className="text-xs uppercase tracking-widest text-gray-500">Intro</div>
           <div className="lg:col-span-3">
-            <h2 className="text-3xl md:text-5xl font-medium leading-tight max-w-3xl">
+            <h2 className="text-xl md:text-2xl font-medium leading-tight max-w-xl">
               Profesional dengan pengalaman dalam data engineering, manajemen proyek digital, operasional, dan administrasi. Terampil dalam analisis kebutuhan bisnis, koordinasi lintas tim, pengelolaan proyek, validasi data, pelaporan,
               serta implementasi dan pengujian solusi teknis. Berpengalaman bekerja di sektor teknologi, layanan publik, event nasional, dan logistik, dengan kemampuan bekerja secara kolaboratif dan berorientasi pada hasil.
             </h2>
