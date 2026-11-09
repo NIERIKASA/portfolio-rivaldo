@@ -28,7 +28,7 @@ import scanQR from "../assets/absensi/scanAbsensi.jpeg";
 import dataGuru from "../assets/absensi/dataGuru.jpeg";
 import inputKelas from "../assets/absensi/inputKelas.jpeg";
 import dokumentasiPiala1 from "../assets/absensi/penyerahanPiala.jpeg";
-import dokumentasiPiala2 from "../assets/absensi/fotoPiala.png";
+import dokumentasiPiala2 from "../assets/absensi/fotopiala.png";
 
 export default function Portfolio() {
   // State untuk mengontrol data proyek mana yang sedang ditampilkan di dalam modal
